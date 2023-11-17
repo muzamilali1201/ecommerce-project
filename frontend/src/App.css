@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Inter:wght@400;600;700&family=Kanit&family=Kenia&display=swap');
+body{
+    background-color: rgb(10, 17, 17);
+    /* font-family: 'kanit'; */
+    /* background:url('./assets/image.jpg'); */
+}
+.signup{
+    font-family: 'Agbalumo';
+}
+.logo{
+    font-family: 'kanit';
+}
+.login{
+    font-family: 'Agbalumo';
+}
